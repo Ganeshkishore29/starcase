@@ -18,6 +18,7 @@ export const Men = () => {
            <h5>Rs.1999</h5></div> 
         
       </div>
+      <h1>helooooo</h1>
     </div>
   )
 }
